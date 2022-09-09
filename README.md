@@ -1,1 +1,1 @@
-# Background-Color---Geberator
+# Background-Color---Generator
